@@ -5,11 +5,11 @@ My Squid Ad Block Settings
 
 ### generate acl file
 ```
-ruby generate_acls.rb /etc/squid/conf.d/some.conf
+# ruby generate_acls.rb > /etc/squid/conf.d/some.conf
 ```
 
 ### Include it from your conf
-in `squid.conf` 
+edit your  `squid.conf` including ,
 
 ```
 include /etc/squid/conf.d/*
