@@ -32,4 +32,4 @@ fi
 echo tail ...
 sudo tail -f $TARGET/var/logs/access.log |grep -v /403 |grep -v TCP_DENIED
 
-bash update-remote.sh
+#bash update-remote.sh

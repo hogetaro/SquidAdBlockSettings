@@ -16,6 +16,7 @@ google-analytics.com
 cse.google.com
 googlesyndication.com
 adntokyo.gunosy.com
+assets.gunosy.com
 mediaplex.com
 outbrain.com
 scorecardresearch.com
@@ -26,6 +27,7 @@ unthem.com
 query.yahooapis.com
 lodeo.io
 ad-v.jp
+adpon.net
 adingo.jp
 adjust-net.jp
 i-mobile.co.jp
@@ -33,12 +35,15 @@ smartads.mobile.yahoo.co.jp
 yads.yahoo.co.jp
 ads.doko.jp
 fout.jp
+adroute.focas.jp
 genieesspv.jp
 gmossp-sp.jp
 gssprt.jp
 impact-ad.jp
+ad.maist.jp
 microad.jp
 nakanohito.jp
+vasta.co.jp
 rtoaster.jp
 efr.softbank.jp
 2o7.net

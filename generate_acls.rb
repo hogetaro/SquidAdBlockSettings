@@ -1,9 +1,5 @@
 #!/bin/ruby
 
-require "./destinations.rb"
-
-TARGET="/usr/local/squid"
-
 Dir.glob("etc/acl-*").each do |file|
   aclname = file.sub(/etc\/acl-[^-]+-(.*)\.txt/,'\1')
   acltype = file.sub(/etc\/acl-([^-]+)-.*\.txt/,'\1')
