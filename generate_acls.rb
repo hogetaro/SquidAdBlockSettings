@@ -10,6 +10,7 @@ Dir.glob("etc/acl-*").each do |file|
     puts l
   end
   puts "http_access deny #{aclname}"
+  puts "deny_info TCP_RESET #{aclname}"
 end
 
 
