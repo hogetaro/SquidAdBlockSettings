@@ -2,13 +2,15 @@
 My Squid Ad Block Settings.
 Call it `Pathological Electric Rubbish Filter`.
 
-- removes awesome ads from your online experience
+- removes aweful ads from your online experience
 - especially that narrows your iphone display
+- especially ads from suckerfish ad-firms those produce no value to the world
 
 ## Wachet auf, ruft uns die Stimme
 It also blocks tracking codes, that exposes your online activity to the world.
 facebook? , twitter?
-`When something online is free, you are not the customer, you are the product being sold!` 
+'When something online is free, you are not the customer, you are the product being sold!'
+
 Open Your Eyes!
 
 ## To include into your squid 
@@ -25,8 +27,9 @@ edit your  `squid.conf` including ,
 include /etc/squid/conf.d/*
 ```
 
-## To update and check access log( for me )
-```
-bash update.sh
-```
+## If you find unwanted ad...( for me )
+- `tail -f /var/log/squid/access.log|grep -v TCP_DENIED` 
+  ,reload the page and lookup ad url.
+- add the url to `etc/acl-dstdom_regex-Ad_Networks.txt`
+- `bash update.sh`
 
