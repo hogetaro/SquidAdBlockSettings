@@ -1,5 +1,15 @@
 # SquidAdBlockSettings
-My Squid Ad Block Settings
+My Squid Ad Block Settings.
+Call it `Pathological Electric Rubbish Filter`.
+
+- removes awesome ads from your online experience
+- especially that narrows your iphone display
+
+## Wachet auf, ruft uns die Stimme
+It also blocks tracking codes, that exposes your online activity to the world.
+facebook? , twitter?
+`When something online is free, you are not the customer, you are the product being sold!` 
+Open Your Eyes!
 
 ## To include into your squid 
 
