@@ -8,8 +8,8 @@ Call it `Pathological Electric Rubbish Filter`.
 
 ## Wachet auf, ruft uns die Stimme
 It also blocks tracking codes, that exposes your online activity to the world.
-facebook? , twitter?
-'When something online is free, you are not the customer, you are the product being sold!'
+facebook? , twitter? Remember!
+*When something online is free, you are not the customer, you are the product being sold!*
 
 Open Your Eyes!
 
