@@ -12,6 +12,8 @@ betrad.com
 criteo.com
 ensighten.com
 facebook.com
+facebook.net
+.facebook.net
 widgets.getpocket.com
 mediaforge.com
 adc.media-rep.com
@@ -78,3 +80,6 @@ tapone.jp
 internet-ps.com
 .telemetry.microsoft.com
 .data.microsoft.com
+.fivecdm.com
+.uliza.jp
+.octopuspop.com

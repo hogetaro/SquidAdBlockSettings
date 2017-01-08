@@ -22,7 +22,7 @@ sudo cp build/*.conf /usr/local/squid/etc/conf.d
 sudo cp build/*.conf /etc/squid/conf.d
 
 # restart squid
-systemctl restart squid
+sudo systemctl restart squid
 #sudo $TARGET/sbin/squid -f $TARGET/etc/squid.conf -k kill
 #sudo $TARGET/sbin/squid -f $TARGET/etc/squid.conf
 
