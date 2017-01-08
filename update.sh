@@ -22,12 +22,13 @@ sudo cp build/*.conf /usr/local/squid/etc/conf.d
 sudo cp build/*.conf /etc/squid/conf.d
 
 # restart squid
-sudo $TARGET/sbin/squid -f $TARGET/etc/squid.conf -k kill
-sudo $TARGET/sbin/squid -f $TARGET/etc/squid.conf
+systemctl restart squid
+#sudo $TARGET/sbin/squid -f $TARGET/etc/squid.conf -k kill
+#sudo $TARGET/sbin/squid -f $TARGET/etc/squid.conf
 
-if [ -f /etc/init.d/squid ]; then
-  sudo /etc/init.d/squid restart
-fi
+#if [ -f /etc/init.d/squid ]; then
+#  sudo /etc/init.d/squid restart
+#fi
 
-bash update-remote.sh
+#bash update-remote.sh
 

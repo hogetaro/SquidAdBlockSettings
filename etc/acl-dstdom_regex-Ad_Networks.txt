@@ -76,3 +76,5 @@ dm.shinobi.jp
 unitedblades.co.jp
 tapone.jp
 internet-ps.com
+.telemetry.microsoft.com
+.data.microsoft.com
